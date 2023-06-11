@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+}
+
+.name,
+.lname,
+.mail,
+.pwd,
+.phone,
+.dob,
+.profile,
+.title,
+.upl,
+.submit {
+    display: block;
+    margin-bottom: 1rem;
+}
+
+#vname,
+#vlname,
+#vmail,
+#vpwd,
+#vphone,
+#vdob,
+#vprofile {
+    color: red;
+}
+
+button {
+    text-align: center;
+}
+
+h1,
+button {
+    text-align: center;
+}
+
+
